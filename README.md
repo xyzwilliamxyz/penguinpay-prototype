@@ -14,4 +14,4 @@ Before running the project, add the apiKey string property (from: https://openex
 
 ## Showcase
 
-![App running](demo.gif)
+![App running](showcase.gif)
