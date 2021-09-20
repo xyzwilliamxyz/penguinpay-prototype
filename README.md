@@ -11,3 +11,7 @@ Before running the project, add the apiKey string property (from: https://openex
 - Retrofit + Moshi
 - Koin
 - Lottie
+
+## Showcase
+
+![App running](demo.gif)
